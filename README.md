@@ -1,7 +1,14 @@
 # <Ride-or-Die>
 
 ## Description
-This website is a resource for frequent travelers who love to explore cities on two wheels. The motivation behind creating this website came from a desire to support bikers traveling to new cities find shared biking resources. At the same time, we want to help them come prepared for the climate of their next destination to ride safely.  
+This website is a resource for frequent travelers who love to explore cities on two wheels. The motivation behind creating this website came from a desire to support bikers traveling to new cities find shared biking resources. At the same time, we want to help them come prepared for the climate of their next destination to ride safely. 
+
+We used the following technologies for this project:
+- OpenWeatherMap API
+- CityBik API 
+- Bulma.io
+- Javascript
+- HTML
 
 ## Challenges we faced include: 
 - Finding a bike API that showed desired data
